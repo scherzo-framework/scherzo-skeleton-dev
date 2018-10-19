@@ -1,0 +1,21 @@
+{
+    "name": "scherzo/scherzo-skeleton-dev",
+    "description": "Skeleton Scherzo application (development version)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Bloomfield",
+            "email": "paulbloomfield.uk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "../scherzo"
+        }
+    ],
+    "require": {
+        "scherzo/scherzo": "*"
+    }
+}
